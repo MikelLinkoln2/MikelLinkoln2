@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am cybersecurity student in Astana IT Universiry on the 2nd course 
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MikelLinkoln2&show_icons=true&theme=radical)
 <!--
 **MikelLinkoln2/MikelLinkoln2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
